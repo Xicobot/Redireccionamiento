@@ -6,7 +6,7 @@
 
 !Hay que subir imagen de que el script ha sido ejecutado con exito¡.
 
-*(Estos son los comandos que tenemos que usar)*
+*(Estos son los comandos que tenemos que usar en el script)*
 ```
 date "+%d-%m-%y" > informe.txt
 df -h >> informe.txt
