@@ -9,7 +9,7 @@ Hay que subir imagen de que el script ha sido ejecutado con exito.
 *(Estos son los comandos)*
 ```
 date "%d %m %y > informe.txt
-df -h >>
-free -h >>
-who >>
+df -h >> informe.txt
+free -h >> informe.txt
+who >> informe.txt
 ```
