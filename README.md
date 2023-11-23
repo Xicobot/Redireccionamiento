@@ -6,10 +6,13 @@
 
 Hay que subir imagen de que el script ha sido ejecutado con exito.
 
-*(Estos son los comandos)*
+*(Estos son los comandos que tenemos que usar)*
 ```
 date "+%d-%m-%y" > informe.txt
 df -h >> informe.txt
 free -h >> informe.txt
 who >> informe.txt
 ```
+### Ejercicio resuelto
+
+![img](img/Redireccionamiento.png)
